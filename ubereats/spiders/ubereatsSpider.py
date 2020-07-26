@@ -32,13 +32,13 @@ class UbereatsspiderSpider(scrapy.Spider):
         return proxy_ip    
         
     def set_driver(self):
-        # proxy_http = "http://"+ self.get_random_proxy()
-        # webdriver.DesiredCapabilities.CHROME['proxy']={
-        #     "httpProxy":proxy_http,
-        #     "ftpProxy":proxy_http,
-        #     "sslProxy":proxy_http,
-        #     "proxyType":"MANUAL",
-        # }
+        proxy_http = "http://"+ self.get_random_proxy()
+        webdriver.DesiredCapabilities.CHROME['proxy']={
+            "httpProxy":proxy_http,
+            "ftpProxy":proxy_http,
+            "sslProxy":proxy_http,
+            "proxyType":"MANUAL",
+        }
         user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) ' \
             'Chrome/80.0.3987.132 Safari/537.36'
         chrome_option = webdriver.ChromeOptions()
