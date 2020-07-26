@@ -1,0 +1,1437 @@
+[
+  {
+    "restaurant_name": "Starbucks (100 Southwest Main Street)",
+    "food_type": "Coffee &amp; Tea,Breakfast and Brunch,Sandwich",
+    "delivery_time": "",
+    "address": "100 Southwest Main Street, Portland, OR 97204",
+    "menu": [
+      {
+        "food_name": "Caff\u00e8 Americano",
+        "food_desc": "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance. \n Pro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+        "price": "2.655 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Blonde Caff\u00e8 Americano",
+        "food_desc": "Espresso shots topped with hot water to produce a light layer of crema and are made with our Starbucks\u00ae Blonde Roast for an extra-smooth, subtly sweet and nuanced cup. \n \n Pro Tip: For additional boost, ask your barista to try this with an extra shot (85 mg caffeine per shot).",
+        "price": "2.655 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Blonde Roast",
+        "food_desc": "Lightly roasted coffee that's soft, mellow and flavorful. Easy-drinking on its own and delicious with milk, sugar or flavored with vanilla, caramel or hazelnut.",
+        "price": "2.355 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Caff\u00e8 Misto",
+        "food_desc": "A one-to-one combination of fresh-brewed coffee and steamed milk add up to one distinctly delicious coffee drink remarkably mixed.",
+        "price": "3.1550 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Featured Starbucks\u00ae Dark Roast Coffee",
+        "food_desc": "This full-bodied dark roast coffee with bold, robust flavors showcases our roasting and blending artistry\u2014an essential blend of balanced and lingering flavors.",
+        "price": "2.355 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Pike Place\u00ae Roast",
+        "food_desc": "From our first store in Seattle\u2019s Pike Place Market to our coffeehouses around the world, customers requested a freshly brewed coffee they could enjoy throughout the day. In 2008 our master blenders and roasters created this for you\u2014a smooth, well-rounded blend of Latin American coffees with subtly rich flavors of chocolate and toasted nuts, it\u2019s served fresh every day at a Starbucks\u00ae store near you.",
+        "price": "2.355 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Decaf Pike Place\u00ae Roast",
+        "food_desc": "From our first store in Seattle\u2019s Pike Place Market to our coffeehouses around the world, customers requested a freshly brewed coffee they could enjoy throughout the day. In 2008 our master blenders and roasters created this for you\u2014a smooth, well-rounded blend of Latin American coffees with subtly rich flavors of chocolate and toasted nuts, it\u2019s served fresh every day at a Starbucks\u00ae store near you. (Decaf as you like it.)",
+        "price": "2.355 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Cappuccino",
+        "food_desc": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+        "price": "3.6580 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Blonde Cappuccino",
+        "food_desc": "Our seriously smooth and subtly sweet Starbucks\u00ae Blonde Espresso lies in wait under a smoothed and stretched layer of thick foam. This cappuccino offers a luxurious texture and velvety, frothy foam with a crisp, cool undercurrent.",
+        "price": "3.6580 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Flat White",
+        "food_desc": "Smooth ristretto shots of espresso get the perfect amount of steamed whole milk to create a not-too-strong, not-too-creamy, just-right flavor.",
+        "price": "4.45110 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Blonde Flat White",
+        "food_desc": "Ristretto shots of Starbucks\u00ae Blonde Espresso\u2014which is subtly smooth without the roasty edge\u2014get the perfect amount of whole milk, creating a cup that's not too strong, not too creamy, but just right.",
+        "price": "4.45110 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Almondmilk Honey Flat White",
+        "food_desc": "This flat white intentionally pairs almondmilk and signature espresso with a hint of honey, making a perfect amount of creamy, nutty sweetness.",
+        "price": "5.6580 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Almondmilk Honey Flat White with Starbucks\u00ae Blonde Espresso",
+        "food_desc": "This flat white intentionally pairs almondmilk and Starbucks\u00ae Blonde Espresso Roast with a hint of honey, making a perfect amount of creamy, nutty sweetness.",
+        "price": "5.6560 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Caff\u00e8 Latte",
+        "food_desc": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+        "price": "3.65100 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Cinnamon Dolce Latte",
+        "food_desc": "We add freshly steamed milk and cinnamon dolce-flavored syrup to our classic espresso, topped with sweetened whipped cream and a cinnamon dolce topping to bring you specialness in a treat.",
+        "price": "4.65190 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Blonde Caff\u00e8 Latte",
+        "food_desc": "Our seriously smooth and subtly sweet Starbucks\u00ae Blonde Espresso balanced with steamed milk and a light layer of foam creates an ideal cup for those who prefer a lighter-roasted coffee.",
+        "price": "3.65100 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Blonde Vanilla Latte",
+        "food_desc": "Extra-smooth Starbucks\u00ae Blonde Espresso, velvety steamed milk and vanilla syrup come together to create a delightful new twist on a beloved espresso classic. An ideal cup for those who prefer a lighter-roasted coffee.",
+        "price": "4.25110 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Coconutmilk Cascara Latte",
+        "food_desc": "Coconutmilk and our signature espresso are intentionally paired and topped with cascara sugar to create one serious latte.",
+        "price": "5.1570 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Coconutmilk Cascara Latte with Starbucks\u00ae Blonde Espresso",
+        "food_desc": "Coconutmilk and Starbucks\u00ae Blonde Espresso Roast are intentionally paired and topped with cascara sugar to create one serious latte.",
+        "price": "5.1570 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Espresso Macchiato",
+        "food_desc": "Our rich espresso marked with dollop of steamed milk and foam. A European-style classic.",
+        "price": "2.3510 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Caramel Macchiato",
+        "food_desc": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+        "price": "4.85120 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Caff\u00e8 Mocha",
+        "food_desc": "Our rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk, then topped with sweetened whipped cream. The classic coffee drink that always sweetly satisfies.",
+        "price": "4.25200 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "White Chocolate Mocha",
+        "food_desc": "Our signature espresso meets white chocolate sauce and steamed milk, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+        "price": "4.65230 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Coffee Traveler \u2013 Starbucks\u00ae Blonde Roast",
+        "food_desc": "A convenient carrier filled with 96 fl oz of our brewed Veranda Blend\u00ae Starbucks\u00ae Blonde Roast coffee (equivalent of twelve 8 fl oz cups), perfectly suited for meetings, picnic gatherings or whatever occasion calls for coffee.",
+        "price": "20.655 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Coffee Traveler \u2013 Pike Place\u00ae Roast",
+        "food_desc": "A convenient carrier filled with 96 fl oz of our featured brewed medium roast coffee (equivalent of twelve 8 fl oz cups)\u2014a perfect pick-me-up for meetings, picnics or whatever occasion calls for coffee.",
+        "price": "20.655 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Coffee Traveler \u2013 Decaf Pike Place\u00ae Roast",
+        "food_desc": "A convenient carrier filled with 96 fl oz of our featured brewed decaf coffee (equivalent of twelve 8 fl oz cups)\u2014a perfect companion for meetings, picnics or whatever occasion calls for coffee.",
+        "price": "20.655 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Coffee Traveler \u2013 Dark Roast",
+        "food_desc": "A convenient carrier filled with 96 fl oz of brewed Starbucks\u00ae Dark Roast coffee.",
+        "price": "20.655 Cal.",
+        "section": "Hot Coffees"
+      },
+      {
+        "food_name": "Chai Latte",
+        "food_desc": "Black tea infused with cinnamon, clove and other warming spices is combined with steamed milk and topped with foam for the perfect balance of sweet and spicy. An iconic chai cup.",
+        "price": "4.15120 Cal.",
+        "section": "Hot Teas"
+      },
+      {
+        "food_name": "Matcha Green Tea Latte",
+        "food_desc": "Smooth and creamy matcha sweetened just right and served with steamed milk. This favorite will transport your senses to pure green delight.",
+        "price": "4.15110 Cal.",
+        "section": "Hot Teas"
+      },
+      {
+        "food_name": "White Hot Chocolate",
+        "food_desc": "A traditional hot chocolate beverage made with white chocolate sauce and steamed milk, topped with whipped cream.",
+        "price": "3.25190 Cal.",
+        "section": "Hot Drinks"
+      },
+      {
+        "food_name": "Hot Chocolate",
+        "food_desc": "Steamed milk with vanilla- and chocolate-flavored syrups. Topped with sweetened whipped cream and chocolate-flavored drizzle. A timeless classic made to sweeten your spirits.",
+        "price": "2.25230 Cal.",
+        "section": "Hot Drinks"
+      },
+      {
+        "food_name": "Caramel Apple Spice",
+        "food_desc": "Steamed apple juice complemented with cinnamon syrup, whipped cream and a caramel sauce drizzle.",
+        "price": "3.25220 Cal.",
+        "section": "Hot Drinks"
+      },
+      {
+        "food_name": "Steamed Apple Juice",
+        "food_desc": "Freshly steamed 100% apple juice (not from concentrate). Feel the apple goodness in this classic fruit drink that will soothe and embolden your day.",
+        "price": "2.25120 Cal.",
+        "section": "Hot Drinks"
+      },
+      {
+        "food_name": "Cinnamon Dolce Cr\u00e8me",
+        "food_desc": "We combine freshly steamed milk and cinnamon dolce\u2013flavored syrup, topped with sweetened whipped cream and a cinnamon dolce topping to give you a creamy, special treat.",
+        "price": "3.95280 Cal.",
+        "section": "Hot Drinks"
+      },
+      {
+        "food_name": "Steamed Milk",
+        "food_desc": "Enjoy a warm cup of skim, 2%, soy, almond or coconutmilk steamed for your sipping pleasure.",
+        "price": "2.25100 Cal.",
+        "section": "Hot Drinks"
+      },
+      {
+        "food_name": "Vanilla Cr\u00e8me",
+        "food_desc": "A smooth, frothy vanilla-flavored luxury. For those times, when you'd rather not indulge in the rich flavor of our world-famous espresso, but desire a hot, creamy vanilla beverage.",
+        "price": "2.25180 Cal.",
+        "section": "Hot Drinks"
+      },
+      {
+        "food_name": "Mocha Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Mocha sauce, Frappuccino\u00ae Roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+        "price": "5.15240 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Java Chip Frappuccino\u00ae Blended Beverage",
+        "food_desc": "We blend mocha sauce and Frappuccino\u00ae chips with coffee, milk and ice, then top it off with whipped cream and a mocha drizzle to bring you endless java joy.",
+        "price": "5.15320 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Coffee Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Coffee meets milk and ice in a blender for a rumble-and-tumble togetherness to create one of our most-beloved original Frappuccino\u00ae blended beverages.",
+        "price": "4.55160 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Espresso Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Coffee is combined with a shot of espresso and milk, then blended with ice to give you a nice little jolt and lots of sipping joy.",
+        "price": "5.65140 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Caff\u00e8 Vanilla Frappuccino\u00ae Blended Beverage",
+        "food_desc": "We take Frappuccino\u00ae roast coffee and vanilla bean powder, combine them with milk and ice, topped with whipped cream. Tastes like happiness.",
+        "price": "5.15280 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "White Chocolate Mocha Frappuccino\u00ae Blended Beverage",
+        "food_desc": "White chocolate Frappuccino\u00ae Roast coffee, milk and ice get together for what might be the best thing that happens to you all day. Oh, and there's whipped cream on top.",
+        "price": "5.15280 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Caramel Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Caramel syrup meets coffee, milk and ice for a rendezvous in the blender, while whipped cream and buttery caramel sauce layer the love on top. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+        "price": "5.15260 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Caramel Ribbon Crunch Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Buttery caramel syrup blended with coffee, milk and ice, then topped with a layer of dark caramel sauce, whipped cream, caramel drizzle and a crunchy caramel-sugar topping\u2014oh-so-beautifully delicious.",
+        "price": "5.45330 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Mocha Cookie Crumble Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Frappuccino\u00ae Roast coffee, mocha sauce and Frappuccino\u00ae chips blended with milk and ice, layered on top of whipped cream and chocolate cookie crumble and topped with vanilla whipped cream, mocha drizzle and even more chocolate cookie crumble. Each sip is as good as the last . . . all the way to the end.",
+        "price": "5.45340 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "S'mores Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Marshmallow-infused whipped cream, milk chocolate sauce, a creamy blend of vanilla, coffee, milk and ice are finished off with more marshmallowy whipped cream and a graham cracker crumble. (No campfire necessary.)",
+        "price": "5.45320 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Vanilla Bean Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "food_desc": "This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes va-va-vanilla flavor to another level. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+        "price": "4.55260 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Double Chocolaty Chip Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Rich mocha-flavored sauce meets up with chocolaty chips, milk and ice for a blender bash. Top it off with sweetened whipped cream and mocha drizzle for a real party in your mouth.",
+        "price": "5.15290 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Matcha Green Tea Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "food_desc": "This blend of sweetened premium matcha green tea, milk and ice\u2014 topped off with sweetened whipped cream\u2014inspires a delicious boost and good green vibes.",
+        "price": "5.15300 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "White Chocolate Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "food_desc": "A smooth blend of white chocolate sauce, milk and ice topped with whipped cream for a remarkable flavor that surprisingly wows.",
+        "price": "5.15250 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Chai Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "food_desc": "A creamy blend of spicy chai, milk and ice, finished with sweetened whipped cream and a sprinkle of cinnamon. Specially made to spice up your afternoon treat.",
+        "price": "5.15230 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Chocolate Cookie Crumble Cr\u00e8me Frappuccino\u00ae",
+        "food_desc": "Mocha sauce and Frappuccino\u00ae chips are blended with milk and ice, layered on top of whipped cream and chocolate cookie crumble and topped with vanilla whipped cream, mocha drizzle and even more chocolate cookie crumble. These layers ensure each sip is as good as the last; all the way to the end.",
+        "price": "5.45330 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Caramel Ribbon Crunch Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Buttery caramel syrup is blended with milk and ice, then topped with a layer of dark caramel sauce, whipped cream, caramel drizzle and a crunchy caramel-sugar topping\u2014oh-so-beautifully delicious.",
+        "price": "5.45300 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "S'mores Cr\u00e8me Frappuccino\u00ae Blended Beverage",
+        "food_desc": "Marshmallow-infused whipped cream, milk chocolate sauce, a creamy blend of vanilla, milk and ice are finished off with more marshmallowy whipped cream and a graham cracker crumble. (No campfire necessary.)",
+        "price": "5.45300 Cal.",
+        "section": "Frappuccino\u00ae Blended Beverages"
+      },
+      {
+        "food_name": "Starbucks\u00ae Cold Brew Coffee with Milk",
+        "food_desc": "Handcrafted in small batches daily, slow-steeped in cool water for 20 hours, without touching heat and finished with a splash of milk\u2014Starbucks\u00ae Cold Brew is made from our custom blend of beans grown to steep long and cold for a super-smooth flavor.",
+        "price": "3.7525 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Cold Brew Coffee",
+        "food_desc": "Handcrafted in small batches daily, slow-steeped in cool water for 20 hours, without touching heat\u2014Starbucks\u00ae Cold Brew is made from our custom blend of beans grown to steep long and cold for a super-smooth flavor.",
+        "price": "3.755 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Vanilla Sweet Cream Cold Brew",
+        "food_desc": "Our slow-steeped custom blend of Starbucks\u00ae Cold Brew coffee accented with vanilla and topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup. It's over-the-top and super-smooth.",
+        "price": "3.9590 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Salted Caramel Cream Cold Brew",
+        "food_desc": "Here's a savory-meets-sweet refreshing beverage certain to delight: our signature, super-smooth cold brew, sweetened with a touch of caramel and topped with a salted, rich cold foam.",
+        "price": "4.55160 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Cold Brew with Salted Honey Cold Foam",
+        "food_desc": "Starbucks\u00ae Cold Brew topped with salted honey cold foam and a strike of toasted honey topping.",
+        "price": "4.5530 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Cold Brew with Cinnamon Almondmilk Foam",
+        "food_desc": "Starbucks\u00ae Cold Brew topped with lightly sweet cinnamon, vanilla syrup and almondmilk cold foam\u2014nondairy, 40 calories and deliciously packed with flavorful yum.",
+        "price": "4.9530 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Cold Brew with Dark Cocoa Almondmilk Foam",
+        "food_desc": "Starbucks\u00ae Cold Brew topped with lightly sweet mocha sauce, cocoa powder and almondmilk cold foam. A powerful taste of flavor\u2014nondairy and 40 calories.",
+        "price": "4.9530 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Nitro Cold Brew",
+        "food_desc": "Nitrogen-infused and velvety-smooth Colombian blend coffee.Sold out",
+        "price": "5.1510 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Caff\u00e8 Americano",
+        "food_desc": "Espresso shots topped with cold water produce a light layer of crema, then served over ice. The result: a wonderfully rich cup with depth and nuance. \n \n \n Pro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+        "price": "2.9510 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Starbucks\u00ae Blonde Caff\u00e8 Americano",
+        "food_desc": "Espresso shots topped with water produce a light layer of crema, then served over ice. Made with our Starbucks\u00ae Blonde Espresso, this cup is extra-smooth, subtly sweet and nuanced. \n \n Pro Tip: For additional boost, ask your barista to try this with an extra shot (85 mg caffeine per shot).",
+        "price": "2.9510 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Coffee",
+        "food_desc": "Freshly brewed Starbucks\u00ae Iced Coffee Blend served chilled and sweetened over ice. An absolutely, seriously, refreshingly lift to any day.",
+        "price": "3.1560 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Coffee with Milk",
+        "food_desc": "Freshly brewed Starbucks\u00ae Iced Coffee Blend with milk served chilled and sweetened over ice. An absolutely, seriously, refreshingly lift to any day.",
+        "price": "3.1580 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Starbucks Doubleshot\u00ae on Ice",
+        "food_desc": "Made with the rich, full-bodied espresso you love that's been chilled and mellowed with a touch of milk and sweetness. This on-the-go drink is delightfully and deliciously convenient.",
+        "price": "3.9580 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Starbucks\u00ae Blonde Doubleshot\u00ae On Ice",
+        "food_desc": "Mellow, light-bodied shots of Starbucks\u00ae Blonde Espresso are shaken with our classic syrup and ice, then topped with a splash of milk for a creamy finish.",
+        "price": "3.95",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Flat White",
+        "food_desc": "Smooth ristretto shots of espresso get the perfect amount of whole milk and ice to create a not-too-strong, not-too-creamy, just-right flavor.",
+        "price": "4.95110 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Almondmilk Honey Flat White",
+        "food_desc": "This iced flat white intentionally pairs almondmilk and signature espresso poured over ice with a hint of honey, making a perfect amount of creamy, nutty sweetness.",
+        "price": "5.75100 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Almondmilk Honey Flat White with Starbucks\u00ae Blonde Espresso",
+        "food_desc": "This iced flat white\u2014intentionally made with almondmilk and Starbucks Blonde\u00ae Espresso Roast poured over ice with a hint of honey\u2014creates a perfect amount of cool, creamy, nutty sweetness.",
+        "price": "5.7580 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Caff\u00e8 Latte",
+        "food_desc": "Our dark, rich espresso combined with milk and served over ice. A perfect milk-forward cooldown.",
+        "price": "3.75100 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Cinnamon Dolce Latte",
+        "food_desc": "We add freshly steamed milk and cinnamon dolce-flavored syrup to our classic espresso and ice, topped with sweetened whipped cream and a cinnamon dolce topping to bring you specialness in a treat.",
+        "price": "4.85240 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Starbucks\u00ae Blonde Caff\u00e8 Latte",
+        "food_desc": "Our extra-smooth and subtly sweet Starbucks\u00ae Blonde Espresso balanced with milk and ice creates an ideal cup for those who prefer a lighter-roasted coffee. A seriously smooth sip.",
+        "price": "3.75100 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Starbucks\u00ae Blonde Vanilla Latte",
+        "food_desc": "Seriously smooth and subtly sweet Starbucks\u00ae Blonde Espresso, milk, ice and vanilla syrup come together to create a delightful twist on a beloved espresso classic.",
+        "price": "4.35130 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Coconutmilk Cascara Latte with Starbucks\u00ae Blonde Espresso",
+        "food_desc": "Coconutmilk and Starbucks\u00ae Blonde Espresso Roast are intentionally paired over ice and topped with cascara sugar to create one serious latte.",
+        "price": "5.3570 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Coconutmilk Cascara Latte",
+        "food_desc": "Coconutmilk and our signature espresso are intentionally paired over ice and topped with cascara sugar to create one serious latte.",
+        "price": "5.3570 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Caramel Macchiato",
+        "food_desc": "We combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with a caramel drizzle for an oh-so-sweet finish.",
+        "price": "4.95180 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced White Chocolate Mocha",
+        "food_desc": "Our signature espresso meets white chocolate sauce, milk and ice, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+        "price": "4.85310 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Caff\u00e8 Mocha",
+        "food_desc": "Our rich, full-bodied espresso combined with bittersweet mocha sauce, milk and ice, then topped with sweetened whipped cream. The classic iced coffee drink that always sweetly satisfies.",
+        "price": "4.35260 Cal.",
+        "section": "Cold Coffees"
+      },
+      {
+        "food_name": "Iced Black Tea",
+        "food_desc": "Premium black tea is sweetened just right and shaken with ice. It's the ideal iced tea\u2014a rich and flavorful black tea journey awaits you.",
+        "price": "2.6530 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Black Tea Lemonade",
+        "food_desc": "Premium black tea is sweetened just right, then shaken with refreshing lemonade and ice for this Arnold Palmer\u2013inspired beverage. A distinguished satisfying treat.",
+        "price": "3.4570 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Guava Black Tea",
+        "food_desc": "Boldly flavored iced tea made with a combination of our guava-flavored fruit juice blend and Teavana\u00ae iced black tea, then sweetened with liquid cane sugar and hand-shaken with ice. A refreshing lift to any day.",
+        "price": "3.15",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Guava Black Iced Tea Lemonade",
+        "food_desc": "Boldly flavored iced tea made with a combination of our guava-flavored fruit juice blend, Teavana\u00ae iced black tea and lemonade, then sweetened with liquid cane sugar and hand-shaken with ice. A refreshing lift to any day.",
+        "price": "3.75",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Chai Tea Latte",
+        "food_desc": "Black tea infused with cinnamon, clove, and other warming spices are combined with milk and ice for the perfect balance of sweet and spicy.",
+        "price": "4.25180 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Matcha Lemonade",
+        "food_desc": "Our finely ground Teavana\u00ae matcha green tea combined with crisp lemonade, then shaken with ice, creates a refreshingly sweet, delicious drink that's a delightfully vibrant, green-hue.",
+        "price": "3.4590 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Matcha Green Tea Latte",
+        "food_desc": "Smooth and creamy matcha sweetened just right and served with milk over ice. Green has never tasted so good.",
+        "price": "4.25140 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Green Tea",
+        "food_desc": "Green tea blended with mint, lemongrass and lemon verbena, then sweetened just right and given a good shake with ice. Lightly flavored and oh-so-refreshing!",
+        "price": "2.6530 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Green Tea Lemonade",
+        "food_desc": "Green tea blended with mint, lemongrass, lemon verbena and lemonade, then sweetened just right and given a good shake with ice. Lightly flavored and oh-so-refreshing!",
+        "price": "3.4570 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Peach Green Tea",
+        "food_desc": "This boldly flavored iced tea\u2014made with a combination of our peach-flavored fruit juice blend and Teavana\u00ae iced green tea, and then sweetened with liquid cane sugar and hand-shaken with ice\u2014brings you refreshing vibes.",
+        "price": "3.1580 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Peach Green Tea Lemonade",
+        "food_desc": "This boldly refreshing iced tea is made with a combination of our peach-flavored fruit juice blend, Teavana\u00ae iced green tea and lemonade, then sweetened with liquid cane sugar and hand-shaken with ice.",
+        "price": "3.75100 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Passion Tango\u2122 Tea",
+        "food_desc": "A blend of hibiscus, lemongrass and apple sweetened just right and handshaken with ice. A refreshingly vibrant tea infused with the color of passion.",
+        "price": "2.6530 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Passion Tango\u00ae Tea Lemonade",
+        "food_desc": "Our blend of hibiscus, lemongrass and apple sweetened just right and handshaken with ice, lemonade and, of course, passion.",
+        "price": "3.4570 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced White Tea",
+        "food_desc": "Our soft and delicate white tea with a clean, bright finish, shaken with ice for a crisp and subtly sweet, refined refreshment.",
+        "price": "2.6530 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced White Tea Lemonade",
+        "food_desc": "Soft and delicate with a clean, bright finish, our white tea shaken with ice and lemonade swirls into a crisp, refreshing tea with a splash of zing.",
+        "price": "3.4570 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Guava White Tea",
+        "food_desc": "Boldly flavored iced tea made with a combination of our guava-flavored fruit juice blend and Teavana\u00ae iced white tea, then sweetened with liquid cane sugar and hand-shaken with ice. A refreshing lift to any day.",
+        "price": "3.1580 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Guava White Tea Lemonade",
+        "food_desc": "Boldly flavored iced tea made with a combination of our guava-flavored fruit juice blend, Teavana\u00ae iced white tea and lemonade, then sweetened with liquid cane sugar and hand-shaken with ice. A refreshing lift to any day.",
+        "price": "3.75100 Cal.",
+        "section": "Iced Teas"
+      },
+      {
+        "food_name": "Iced Golden Ginger Drink",
+        "food_desc": "Our golden ginger blend with turmeric essence shaken with flavors of pineapple and ginger, coconutmilk and ice for a delicious beverage to lift up your day.",
+        "price": "5.35100 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Iced Pineapple Matcha Drink",
+        "food_desc": "Our premium matcha green tea shaken with flavors of pineapple and ginger along with coconutmilk and ice for a delicious beverage to uplift your day.",
+        "price": "5.35130 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Iced Guava Passionfruit Drink",
+        "food_desc": "Guava juice blend with notes of passionfruit hand-shaken with flavors of pineapple and ginger along with coconutmilk and ice for a deliciously smooth and creamy beverage to uplift your day.",
+        "price": "5.35140 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Very Berry Hibiscus Starbucks Refreshers\u00ae Beverage",
+        "food_desc": "Real fruit juice and whole blackberries shaken with Green Coffee Extract for a boost of natural energy, served over ice.",
+        "price": "3.9550 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Pink Drink",
+        "food_desc": "Our crisp, Strawberry A\u00e7a\u00ed Refreshers\u00ae Beverage, with its accents of passion fruit, is combined with creamy coconutmilk. A fruity and refreshing sip of spring, no matter what time of year.",
+        "price": "4.65110 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Strawberry A\u00e7a\u00ed Starbucks Refreshers\u00ae Beverage",
+        "food_desc": "Sweet strawberry flavors accented by passion fruit and a\u00e7a\u00ed notes, caffeinated with green coffee extract\u2014a welcoming sweet spot of refreshment.",
+        "price": "3.9580 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Violet Drink",
+        "food_desc": "The sweet blackberries and tart hibiscus flavor of our Very Berry Hibiscus Starbucks Refreshers\u00ae beverage swirl together with creamy coconutmilk and ice, creating refreshing (and violet-hued!) sips.",
+        "price": "4.6590 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Strawberry A\u00e7a\u00ed Lemonade Starbucks Refreshers\u00ae Beverage",
+        "food_desc": "Sweet strawberry flavors, passion fruit and a\u00e7a\u00ed notes balanced with the delightful zing of lemonade, caffeine from green coffee extract and served over ice. This is the utimate pick-me-up your afternoon is calling for.",
+        "price": "4.35110 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Very Berry Hibiscus Lemonade Starbucks Refreshers\u00ae Beverage",
+        "food_desc": "Fruit juice and whole blackberries balanced with the delightful zing of lemonade, caffeine from green coffee extract and served over ice. This is the ultimate pick-me-up your afternoon is calling for.",
+        "price": "4.3590 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Mango Dragonfruit Lemonade Starbucks Refreshers\u00ae Beverage",
+        "food_desc": "This tropical-inspired pick-me-up\u2014crafted with a clever combination of vibrant lemonade, sweet mango and refreshing dragonfruit flavors\u2014is hand-shaken with ice and a scoop of real diced dragonfruit. Contains caffeine.",
+        "price": "4.35110 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Mango Dragonfruit Starbucks Refreshers\u00ae Beverage",
+        "food_desc": "This tropical-inspired pick-me-up\u2014crafted with a refreshing combination of sweet mango and dragonfruit flavors\u2014is hand-shaken with ice and a scoop of real diced dragonfruit.  Contains caffeine.",
+        "price": "3.9570 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Dragon Drink",
+        "food_desc": "This tropical-inspired pick-me-up\u2014crafted with a refreshing combination of sweet mango and dragonfruit flavors\u2014is handshaken with creamy coconutmilk, ice and a scoop of real diced dragonfruit. Contains caffeine.",
+        "price": "4.65100 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Lemonade",
+        "food_desc": "Awaken your taste buds with the zing of refreshing lemonade\u2014this tangy, fresh sip puts a little zip in your step.",
+        "price": "2.2580 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Tree Top Apple Juice Box",
+        "food_desc": "This childhood favorite contains 100% of your daily vitamin C with just the right amount of sweetness.Sold out",
+        "price": "2.25120 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Blended Strawberry Lemonade",
+        "food_desc": "Awaken your taste buds with the zing of refreshing lemonade infused with a hint of delicious strawberry flavor and blended with ice. A light, fresh beverage that puts a little zip in your step.",
+        "price": "3.95130 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Milk",
+        "food_desc": "Skim, 2%, soy, almond, or coconutmilk served chilled or over ice. Simply refreshing.",
+        "price": "2.85200 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Horizon\u00ae Chocolate Organic Milk",
+        "food_desc": "Great for snacks, travel and more, this chocolate organic milk box is a convenient way to experience your milk on the go and everywhere.Sold out",
+        "price": "2.25150 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Galvanina Sparkling Water",
+        "food_desc": "The essential refresher. Our sparking, natural mineral water will quench your thirst with effervescent ease.",
+        "price": "2.850 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Ethos\u00ae Bottled Water",
+        "food_desc": "For every bottle of Ethos\u00ae water you buy, Starbucks will donate 5 cents to support humanitarian programs in coffee-growing communities, providing clean, safe water to those in need.",
+        "price": "2.650 Cal.",
+        "section": "Cold Drinks"
+      },
+      {
+        "food_name": "Bacon, Gouda & Egg Sandwich",
+        "food_desc": "Sizzling applewood-smoked bacon, melty aged Gouda and a Parmesan frittata layered on an artisan roll for extra-smoky breakfast goodness.",
+        "price": "4.85370 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Reduced-Fat Turkey Bacon & Cage-Free Egg White Sandwich",
+        "food_desc": "Sizzling reduced-fat turkey bacon and wholesome cage-free egg whites are paired with the rich creaminess of melted, reduced-fat white Cheddar cheese on a wheat English muffin. So good and surprisingly only 230 calories.Sold out",
+        "price": "4.55230 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Spinach, Feta & Cage-Free Egg White Wrap",
+        "food_desc": "We bring together cage-free egg whites, spinach, feta cheese and tomatoes inside a whole-wheat wrap, then toast it to perfection. Vegetarian and protein-rich, this wrap is bound to be a tasty start to any morning.",
+        "price": "4.55290 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Double-Smoked Bacon, Cheddar & Egg Sandwich",
+        "food_desc": "Bacon smoked for six hours over hickory wood chips, stacked with a fluffy egg patty, topped with a creamy melted slice of sharp Cheddar, double-smoked delciously to fill you up\u2014all on our signature croissant bun.Sold out",
+        "price": "5.75500 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Sausage, Cheddar & Egg Sandwich",
+        "food_desc": "A savory sausage patty, fluffy eggs and aged Cheddar cheese served on a perfectly toasty English muffin. An iconic sandwich that reminds you why you love breakfast.Sold out",
+        "price": "4.35480 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Chicken Sausage & Bacon Biscuit",
+        "food_desc": "This baked-from-scratch cornmeal biscuit gets even better with these added craveable delights: chicken sausage, double-smoked bacon, country-style gravy and spiced honey butter. Chickens are raised without the use of antibiotics.",
+        "price": "5.75380 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Roasted Ham, Swiss & Egg Sandwich",
+        "food_desc": "Take hickory-smoked ham and nutty, melty Swiss cheese layered on a flaky, buttery croissant, and you\u2019ve got the perfect wakeup call.",
+        "price": "5.75450 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Avocado Spread",
+        "food_desc": "Spruce up your sandwich or sous vide egg bites with avocado mixed with a touch of spices and lime. This Avocado Spread is made using a high-pressure process designed to maintain freshness without the use of heat, additives or preservatives.",
+        "price": "1.4590 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Bacon, Sausage & Egg Wrap",
+        "food_desc": "Delicious double-smoked bacon, savory sausage, and cage-free scrambled eggs, combined with cheddar cheese and sous vide potatoes all wrapped in a flour tortilla for a breakfast you\u2019re sure to love.",
+        "price": "6.25650 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Southwest Veggie Wrap",
+        "food_desc": "An inviting mixture of cage-free scrambled eggs, black beans, and sous vide potatoes combined with the delicious flavors of Cotija cheese, pico de gallo and jalape\u00f1o cream cheese wrapped in a salsa tortilla.  A satisfying start to your day!",
+        "price": "6.25590 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Impossible\u2122 Breakfast Sandwich",
+        "food_desc": "The savory Impossible\u2122 plant-based sausage patty, combined with a cage-free fried egg and aged cheddar cheese on an artisanal ciabatta bread. It\u2019s everything you love about a classic sausage breakfast sandwich but now with plant-based sausage.",
+        "price": "5.75430 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Bacon & Gruy\u00e8re Sous Vide Egg Bites",
+        "food_desc": "A foodie delight, even when you're on the go. We've taken cage-free eggs and prepared them using the French \"sous vide\" technique resulting in a velvety texture bursting with flavor. We added aged Gruy\u00e8re and Monterey Jack cheeses, and topped them with applewood-smoked bacon for a delicious, high-protein, convenient breakfast.",
+        "price": "5.35300 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Egg White & Roasted Red Pepper Sous Vide Egg Bites",
+        "food_desc": "Perfectly cooked cage-free egg whites prepared using the French \"sous vide\" technique result in a velvety texture bursting with flavor. We added creamy Monterey Jack cheese, plus spinach and fire-roasted red peppers for a high-protein breakfast that's both delicious and convenient.",
+        "price": "5.35170 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Ham, Cheddar & Peppers Sous Vide Egg Bites",
+        "food_desc": "Diced ham with roasted red and green peppers, inspired by the classic Denver omelet. Tasteful. Wonderful. Flavorful.",
+        "price": "5.35250 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Hearty Blueberry Oatmeal",
+        "food_desc": "A warm, hearty blend of rolled and whole-grain steel-cut oats, topped with blueberries and a yummy medley of fruit, seeds and nuts, then finished with a touch of agave syrup for extra sweetness.",
+        "price": "4.35220 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Classic Oatmeal",
+        "food_desc": "A blend of rolled and steel-cut oats with dried fruit, a nut medley and brown sugar as optional toppings. Hearty. Traditional. Classic.",
+        "price": "3.75160 Cal.",
+        "section": "Hot Breakfast"
+      },
+      {
+        "food_name": "Sprouted Grain Vegan Bagel",
+        "food_desc": "This vegan bagel is the traditional texture everyone loves. The flavorful, aged bagel dough made with wholesome sprouted wheat and rye, then topped with brown and golden flax, oats and sunflower seeds is delicious on its own. Or finish it off with your favorite spread.Sold out",
+        "price": "2.25330 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Cheese, Onion & Garlic Bagel",
+        "food_desc": "A bagel topped with Cheddar cheese, poppy seeds, sesame seeds, onion and garlic: a mighty combination of loveable favorites.",
+        "price": "2.25300 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Cinnamon Raisin Bagel",
+        "food_desc": "Our New York-style boiled bagel gets sweet cinnamon swirled into the dough, just before heaps of raisins are mixed in, adding a little sweet to your savory breakfast.Sold out",
+        "price": "2.25270 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Avocado Spread",
+        "food_desc": "Spruce up your sandwich or sous vide egg bites with avocado mixed with a touch of spices and lime. This Avocado Spread is made using a high-pressure process designed to maintain freshness without the use of heat, additives or preservatives.",
+        "price": "1.4590 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Plain Bagel",
+        "food_desc": "Our classic soft, chewy and thick New York\u2013style bagel: whether toasted or not, or with a smear of cream cheese or not, each bite tastes of authentic-baked goodness.Sold out",
+        "price": "2.25280 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Chocolate Chip Cookie Dough Cake Pop",
+        "food_desc": "Everybody loves chocolate chip cookie dough, right? Now you can enjoy it as a great-tasting cake pop complete with chocolate chips on top.Sold out",
+        "price": "2.65180 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Birthday Cake Pop",
+        "food_desc": "Vanilla cake and icing, dipped in a pink chocolaty coating with white sprinkles\u2014a celebratory confetti of birthday joyfulness.Sold out",
+        "price": "2.65170 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Iced Lemon Loaf Cake",
+        "food_desc": "This citrusy, buttery, moist lemon pound cake topped with a sweet icing creates an amazingly refreshing cake like never before.Sold out",
+        "price": "3.65470 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Classic Coffee Cake",
+        "food_desc": "Our ever-popular coffee cake\u2014with its swirled cinnamon-sugar blend and finished with a crunchy streusel topping\u2014pairs well with your favorite beverage and a few quiet moments. We're big fans!Sold out",
+        "price": "3.45330 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Chocolate Cake Pop",
+        "food_desc": "Chocolate cake mixed with chocolate buttercream, dipped in chocolatey coating and topped with sugar sprinkles create this wonderfully reimagined dessert on a stick.Sold out",
+        "price": "2.65160 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Double Chocolate Chunk Brownie",
+        "food_desc": "Rich chocolate brownie with generous chunks of chocolate made for the passionate chocolate lover.Sold out",
+        "price": "3.45480 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Chocolate Chip Cookie",
+        "food_desc": "This scrumptious, satisfying cookie love will uplift your day\u2014sweet chocolate chips embedded in a thick, chewy goodness of our favorite dough make this an absolute must-have.",
+        "price": "2.85360 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Confetti Sugar Cookie",
+        "food_desc": "This fluffy, soft sugar cookie half-dipped in a white chocolaty coating and dusted with crunchy sugar sprinkles screams party time.",
+        "price": "2.85410 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Butter Croissant",
+        "food_desc": "This classic croissant is made with real butter to create a golden, crunchy top with soft, flaky layers inside. The perfect match: pair it with a signature cup of Pike Place\u00ae Roast.Sold out",
+        "price": "3.15260 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Chocolate Croissant",
+        "food_desc": "Light, flaky, real butter croissant dough wrapped around two chocolate batons creates a perfect balance that'll satisfy your sweet tooth and bring on a moment of bliss.Sold out",
+        "price": "3.45340 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Almond Croissant",
+        "food_desc": "Our rich, almond flan enveloped in a flaky, buttery croissant, then topped with sliced almonds creates the perfect combination of sweet and savory.Sold out",
+        "price": "3.75420 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Cheese Danish",
+        "food_desc": "Our take on the traditional cheese Danish pairs flaky croissant dough with Neufch\u00e2tel cheese\u2014a simple recipe with simple ingredients you\u2019re sure to love.Sold out",
+        "price": "3.45290 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Marshmallow Dream Bar",
+        "food_desc": "This crispy, chewy marshmallow bar, made of ooey-gooey, soft marshmallows, crispy rice, creates a sweet treat that\u2019ll make you snack like a kid again.",
+        "price": "2.85230 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Old-Fashioned Glazed Doughnut",
+        "food_desc": "A doughnut glazed with delicious, sweet icing\u2014made with old-fashioned scrumptiousness.Sold out",
+        "price": "2.25480 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Banana Nut Bread",
+        "food_desc": "Bananas, walnuts and pecans combine into this moist, nutty, classic banana bread. A perfect harmonious blend of deliciousness.",
+        "price": "3.65420 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Blueberry Muffin",
+        "food_desc": "This delicious muffin is dotted throughout with sweet, juicy blueberries and a hint of lemon and dusted on top with sugar for a delightfully crunchy texture.",
+        "price": "2.95360 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Morning Bun",
+        "food_desc": "Spicy, single-origin Sumatran cinnamon is swirled around a flaky, buttery pastry to wake up your morning with a wow.Sold out",
+        "price": "3.45420 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Pumpkin Bread",
+        "food_desc": "A gently spiced bread with pumpkin flavors and pepitas gives you a tasty way to celebrate a seasonal favorite.Sold out",
+        "price": "3.65410 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Blueberry Scone",
+        "food_desc": "A traditional scone with blueberries, buttermilk and lemon lovingly handmade to remind you of everything wholesome.",
+        "price": "3.15380 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Petite Vanilla Bean Scone",
+        "food_desc": "Our moist, fluffy petite scone made with real vanilla beans and natural vanilla extract equals a bite-size treat that's superbly flavorful.",
+        "price": "1.45120 Cal.",
+        "section": "Bakery"
+      },
+      {
+        "food_name": "Chicken & Double-Smoked Bacon",
+        "food_desc": "Herbed chicken is slow-cooked and piled high on toasted apple brioche, topped with our double-smoked bacon and maple mustard. \nChickens are raised without the use of antibiotics.Sold out",
+        "price": "7.75600 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Tomato & Mozzarella",
+        "food_desc": "Roasted tomatoes, mozzarella, spinach and basil pesto layered on a toasted focaccia\u2014a satisfyingly delicious delight.Sold out",
+        "price": "6.65370 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Chicken Caprese",
+        "food_desc": "Stacked with craveable ingredients, including slow-cooked chicken, mozzarella, balsamic-marinated tomatoes, basil pesto and spinach, all nestled between soft ciabatta bread. \nChickens are raised without the use of antibiotics.Sold out",
+        "price": "7.75540 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Avocado Spread",
+        "food_desc": "Spruce up your sandwich or sous vide egg bites with avocado mixed with a touch of spices and lime. This Avocado Spread is made using a high-pressure process designed to maintain freshness without the use of heat, additives or preservatives.",
+        "price": "1.4590 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Turkey & Basil Pesto",
+        "food_desc": "Thick-sliced turkey and melted provolone cheese stacked on a ciabatta roll, then topped with our signature basil pesto and dry-roasted red peppers. So tasty, you'll want seconds, but so satisfying, you won't need them. Turkeys are raised without the use of antibiotics.Sold out",
+        "price": "7.45550 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Ham & Swiss Panini",
+        "food_desc": "Ham and Swiss cheese meld with Dijon butter in comforting warmth. An extraordinary feel-good taste.Sold out",
+        "price": "7.75480 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Crispy Grilled Cheese Sandwich",
+        "food_desc": "A delicious blend of white Cheddar and mozzarella cheeses on sourdough bread, topped with a Parmesan butter spread.Sold out",
+        "price": "6.85540 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Eggs & Cheese Protein Box",
+        "food_desc": "Two cage-free hard-boiled eggs, sliced tart apples, grapes, Everything Seasoning and white Cheddar cheese get together with multigrain muesli bread and honey peanut butter spread in this protein-packed lover's dream.",
+        "price": "6.85470 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Peanut Butter & Jam Protein Box",
+        "food_desc": "Natural peanut butter spread on our soft, honey wheat bread and served with a side of string cheese, chocolate-covered raisins, apples, carrots and Greek yogurt ranch dip\u2014a yummy twist on a classic, peanut-y favorite.Sold out",
+        "price": "6.25520 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Cheese & Fruit Protein Box",
+        "food_desc": "Brie, Gouda, aged Cheddar cheeses, olive oil crackers, apples and grapes make this the perfectly balanced box to enjoy any time of day.",
+        "price": "6.25470 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Chipotle Chicken Wrap Protein Box",
+        "food_desc": "Chipotle-seasoned white-meat chicken, veggie slaw, cucumber, cilantro, jalape\u00f1o cream cheese and avocado dressing in a chili tortilla. Served with carrots and apples.Sold out",
+        "price": "9.15630 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Grilled Chicken and Hummus Protein Box",
+        "food_desc": "Tender and juicy sous vide grilled chicken breast paired with roasted red pepper hummus and naan bread, accompanied with baby carrots and snap peas\u2014a whole lot of protein to get you through your day.Sold out",
+        "price": "7.45300 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Chicken & Quinoa Protein Bowl with Black Beans and Greens",
+        "food_desc": "Grilled chicken tossed with a medium-spiced chile vinaigrette for a lively but not over-the-top kick and mixed with fresh greens, tomatoes, roasted corn, black beans, jicama, paprika and cotija.\nChickens are raised without the use of antibiotics.",
+        "price": "9.75420 Cal.",
+        "section": "Lunch"
+      },
+      {
+        "food_name": "Madeleines",
+        "food_desc": "Made with quality ingredients, these rich and buttery French cakes are soft and moist in the center and baked with lightly crisped edges.",
+        "price": "2.85220 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Vanilla Biscotti with Almonds",
+        "food_desc": "These crispy, delicious vanilla cookies topped with crunchy almonds are love at first bite. Perfect for dipping into your favorite coffee or espresso beverage.Sold out",
+        "price": "1.95200 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Shortbread Cookies",
+        "food_desc": "Our two-pack of butter shortbread cookies made with quality ingredients create a melt-in-your-mouth texture in every bite.",
+        "price": "1.75170 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Dark Chocolate Grahams (2-Pack)",
+        "food_desc": "Two crunchy graham cookies covered with dark chocolate and topped with a milk chocolate drizzle. The perfect snack to complement your favorite latte or coffee drink.",
+        "price": "2.25140 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Dipped Madeleines",
+        "food_desc": "Rich, buttery and moist with lightly crisped edges to create a delicious and soft madeleine dipped in chocolaty coating.",
+        "price": "3.15290 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Rip van Wafels \u2013 Honey & Oats",
+        "food_desc": "A blend of vanilla, honey and oats come together to create a uniquely textured cookie\u2014crispy and chewy goodness.",
+        "price": "2.25130 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Justin\u2019s\u00ae Dark Chocolate Peanut Butter Cups",
+        "food_desc": "What happens when the best-tasting peanut butter in the world is delicately placed into the highest-quality, dark chocolate available? Peanut-butter cup perfection.",
+        "price": "2.65210 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Chocolate Covered Espresso Beans",
+        "food_desc": "Our espresso coffee beans (the finest and most sought-out in the world) get even better when drenched in a layer of luscious dark chocolate.",
+        "price": "3.15260 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Salted Almond Chocolate Bites",
+        "food_desc": "Triple chocolate-covered almonds with gray sea salt: a flavorful nutty-salty experience.",
+        "price": "3.15300 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Banana",
+        "food_desc": "Sweet, ripe bananas are like letting a ray of sunshine into your day\u2014a wonderfully sweet, creamy, golden, favorite fruit for all ages.Sold out",
+        "price": "1.45110 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Squirrel Brand\u00ae Fruit & Nut",
+        "food_desc": "Premium cashews and pure California almonds loaded with juicy cranberries and mouthwatering blueberries. Ah, such a delightful blend of sweet and savory.",
+        "price": "2.25200 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Squirrel Brand\u00ae \u2013 Classic Almonds",
+        "food_desc": "Pure California almonds are kettle-cooked, then finished with a hint of salt. A classic taste of wholesomeness.",
+        "price": "2.25260 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Peter Rabbit\u2122 Organics Apple & Grape",
+        "food_desc": "These convenient, squeezable, resealable pouches contain USDA organic puree with grape juice concentrate and a hint of lemon. Perfect for busy moms on the go.",
+        "price": "2.65100 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Peter Rabbit\u2122 Organics Strawberry Banana",
+        "food_desc": "These convenient, squeezable, resealable pouches contain USDA organic banana-strawberry puree with a hint of lemon juice. Perfect for busy moms on the go.",
+        "price": "2.6580 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Peppermint Gum",
+        "food_desc": "This frosted, sugar-free chewing gum is powerful yet cooling, giving you the ultimate refresh after enjoying a coffee or dessert.",
+        "price": "2.655 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Butter Gourmet Popcorn",
+        "food_desc": "Perfectly buttery with just the right amount of salt, this fluffy snack favorite makes movie theaters everywhere jealous.",
+        "price": "1.75140 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Starbucks\u00ae BBQ Potato Chips",
+        "food_desc": "Thick-cut kettle potato chips coated with tangy barbecue flavor\u2014a smoky-sweet treat for your crunchy snack craving.",
+        "price": "1.95270 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Simply Salted Kettle Potato Chips",
+        "food_desc": "Kettle potato chips perfectly salted for a naturally delicious anytime snack\u2014an undeniable flavorful crunch.",
+        "price": "1.95280 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Hippeas\u00ae \u2013 White Cheddar",
+        "food_desc": "Crunchy, savory, organic chickpea-based snack puffs with white Cheddar flavor celebrate a new way or snacking\u2014only 100 calories per bag.",
+        "price": "2.25100 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Salt & Vinegar Kettle Potato Chips",
+        "food_desc": "With the perfect sprinkling of vinegar and salt, these chips add a flavorful crunch to any afternoon\u2014a wave of pure delight.",
+        "price": "1.95270 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Sweet Potato Kettle Potato Chips",
+        "food_desc": "With the perfect amount of salt, these sweet potato chips add a crispy, flavorful crunch to any afternoon\u2014a surprising blast of salty-sweet.",
+        "price": "1.95300 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Moon Cheese\u2122 \u2013  Cheddar",
+        "food_desc": "Made with American Cheddar cheese to deliver a crunchy, cheesy, flavor explosion. A great snack anytime, anywhere.",
+        "price": "5.7570 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "String Cheese",
+        "food_desc": "As a mess-free car snack or a quick add-on to round out their lunch box\u2014this string cheese is always a fan favorite. Made with low-moisture part-skim mozzarella cheese.",
+        "price": "1.4580 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Country Archer \u2013 Hickory Smoked Turkey Jerkey",
+        "food_desc": "This small-batch, handcrafted turkey jerkey: hickory-smoked and prepared the way it was always intended, with slices of real turkey breast, true smoke flavor and no nonsense.",
+        "price": "7.9570 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Creminelli Snack Tray \u2013 Sopressata Salami & Monterey Jack",
+        "food_desc": "With 15 g of protein, this high-flavor, ready-make snack is perfect for a quick lunch at your desk, a treat on a hike or a relaxing moment during a busy day. The family's recipe for this Italian dry salami\u2014made with organic garlic and infused with fragrant red wine\u2014pairs with slices of creamy Monterey Jack.",
+        "price": "6.85220 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Babybel\u00ae Mini Cheese Snack",
+        "food_desc": "Peel open the original cheese snack perfect for everyday snacking\u2014 ready to eat, anytime, anywhere.",
+        "price": "1.1570 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "This Bar Saves Lives\u2122 \u2013 Dark Chocolate Peanut Butter & Sea Salt Bar",
+        "food_desc": "A decadent blend of chocolate, crunchy almonds, creamy peanut butter and a dash of sea salt make this a tasty bar. Making it even more amazing is that it's gluten free, Non-GMO Project Verified, kosher, and for every bar sold, a packet of life-saving food is given to a child in need, in different areas around the world.Sold out",
+        "price": "2.85190 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "This Bar Saves Lives\u2122 Madagascar Vanilla Almond & Honey Bar",
+        "food_desc": "Crunchy almonds and mega-3 rich flax seeds wrapped in a dash of vanilla and honey. This delicious bar is just plain awesome. Plus, for every bar sold, This Bar Saves Lives\u2122 will give a packet of lifesaving food to a child in need.",
+        "price": "2.85180 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "KIND\u00ae Blueberry Vanilla & Cashew Bar",
+        "food_desc": "A chewy blend of blueberries and cashews, combined with the sweet taste of vanilla. It's goodness on the go.",
+        "price": "2.65180 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "KIND\u00ae Salted Caramel & Dark Chocolate Nut Bar",
+        "food_desc": "Whole cashews and pecans combined with the smooth, rich flavors of salted caramel and dark chocolate may seem indulgent, but this snack\u2014made with just 5 g of sugar\u2014only tastes like dessert.",
+        "price": "2.65200 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "That's It\u00ae \u2013 Apple + Blueberry Bar",
+        "food_desc": "Fruit bars made from only two ingredients: apples and blueberries. Seriously, that's it!",
+        "price": "2.25100 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Perfect Bar\u00ae Peanut Butter",
+        "food_desc": "One bite and you'll taste why this recipe is indeed \"perfect.\" Made with ground organic peanut butter and honey, and packed with organic superfoods, this bar is gluten-free, soy-free and truly tasty.",
+        "price": "3.95330 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Perfect Bar\u00ae \u2013 Dark Chocolate Chip Peanut Butter",
+        "food_desc": "The original peanut butter bar receives an upgrade with a sprinkle of Fair Trade dark chocolate chips and a pinch of sea salt. Plus, protein-packed with 20 organic superfoods, this guilt-free go-to bar satisfies any salty-sweet craving.",
+        "price": "3.95320 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Avocado Spread",
+        "food_desc": "Spruce up your sandwich or sous vide egg bites with avocado mixed with a touch of spices and lime. This Avocado Spread is made using a high-pressure process designed to maintain freshness without the use of heat, additives or preservatives.",
+        "price": "1.4590 Cal.",
+        "section": "Snacks & Sweets"
+      },
+      {
+        "food_name": "Siggi's\u00ae Yogurt Cup 0% Vanilla",
+        "food_desc": "Simplicity reigns in this traditional Scandinavian recipe of pasteurized skim milk and Madagascar Bourbon Vanilla. And you'll never find artificial sweeteners, just sweet agave nectar. The result: a thick, creamy, protein-rich scoop of true vanilla yogurt.",
+        "price": "2.85110 Cal.",
+        "section": "Yogurt & Custard"
+      },
+      {
+        "food_name": "Strawberry Overnight Grains",
+        "food_desc": "Dig into your day with our vegan overnight grains that include oatmeal, quinoa and chia seeds, plus shaved coconut, strawberries and toasted almonds.Sold out",
+        "price": "4.35300 Cal.",
+        "section": "Yogurt & Custard"
+      },
+      {
+        "food_name": "Berry Trio Parfait",
+        "food_desc": "Greet your day with powerful protein, flavorful berries and a cascade of crunch with our nonfat vanilla yogurt, sliced strawberries, whole blueberries, raspberries and crisp honey-oat granola.",
+        "price": "4.35240 Cal.",
+        "section": "Yogurt & Custard"
+      },
+      {
+        "food_name": "Sun-Dried Papua New Guinea Ulya Starbucks Reserve\u00ae",
+        "food_desc": "Notes of baked pineapple and brown sugar with a syrupy mouthfeel and hints of eucalyptus. \n\nIn this remote place of otherworldly beauty, fortune favors the bold. The result is our first sun-dried coffee from Papua New Guinea, and it's a triumph.",
+        "price": "20.75",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Veranda Blend\u00ae",
+        "food_desc": "In Latin America, coffee farms are often run by families, with their own homes on the same land where their coffee grows. We\u2019ve sipped coffee with these farmers for decades, sitting on their verandas, overlooking the lush beauty of the coffee trees rolling out in the distance. Most times it was a lightly roasted coffee like this one. It took us more than 80 tries to get it right\u2014mellow and flavorful with a nice softness.",
+        "price": "14.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Starbucks\u00ae Blonde Espresso Roast",
+        "food_desc": "Drawing on four decades of coffee artistry, we set out to craft an espresso that delivers a softer, more balanced taste to your cup and blends beautifully with milk. We started by combining select Latin American and East African beans, and then carefully roasted them to coax out their sweet, vibrant notes. The result is delightfully well-rounded and wonderfully versatile\u2014delicious hot or served over ice.",
+        "price": "14.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Pike Place\u00ae Roast",
+        "food_desc": "From our first store in Seattle\u2019s Pike Place Market to our coffeehouses around the world, customers requested a freshly brewed coffee they could enjoy throughout the day. In 2008 our master blenders and roasters created this for you\u2014a smooth, well-rounded blend of Latin American coffees with subtly rich flavors of chocolate and toasted nuts, it\u2019s served fresh every day at a Starbucks\u00ae store near you.",
+        "price": "14.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Guatemala Antigua",
+        "food_desc": "Coffee from the Antigua Valley of Guatemala is the touchstone of quality. Here farmers take enormous pride in traditions, resulting in consistent flavor, cup after cup\u2014lemon, chocolate and soft spice notes with an elegant mouthfeel unique to this region. It\u2019s why we loved this coffee back in \u201971, and why we love it today.",
+        "price": "15.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Siren's Blend\u2122",
+        "food_desc": "The bright flavors of this medium roast are inspired\u2014and created\u2014by trailblazing women of the coffee industry. The juicy, citrusy and chocolaty blend combines coffee from East Africa and Latin America. Named for the Siren that symbolizes Starbucks, this blend honors the innovations of women, from farmer to roaster to barista.",
+        "price": "14.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Passport Series: West Java",
+        "food_desc": "The word \"Java\" conjures the lore and romance of coffee. The story began in the 17th century, when seedings first arrived on the island from the port of Mocha. With densley forested volcanic mountains, wild coffee gardens and a tropical climate, the region is a paradise for cultivating remarkable beans. Processed using a semi-washed method that has a rich history in the region, this coffee mesmerizes. In the cup, aromas of sage are layered with flavors of bittersweet chocolate and vanilla-like sweetness.",
+        "price": "17.25",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Italian Roast",
+        "food_desc": "This is Starbucks quintessential dark roast\u2014expertly crafted to bring out sweetness and intensity. It showcases the precision and skill of our roasters, who created a coffee slightly darker than our Espresso Roast without the smoky edge of French Roast. A great cup of coffee with enriched flavor.",
+        "price": "14.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Espresso Roast",
+        "food_desc": "Our master roasters coax the beans along, the heat taking them deep and dark\u2014a recipe for caramelly sweetness so right it's never been changed. The quest began in 1975 with a search for the perfect melding of beans and roast, ending months of intense experimentation later with the coffee you're holding in your hand. A signature blend roasted the way only we can.",
+        "price": "14.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Caff\u00e8 Verona\u00ae",
+        "food_desc": "This is a coffee of one true love, and three names. We created it just for a Seattle restaurant in 1975, naming it Jake\u2019s Blend. And people loved it. So many, in fact, that we began hand scooping and blending it to order in our stores, where it was known as 80/20 Blend, for the recipe. The love was so strong we finally made it official, calling it Verona after the city that inspires so many. By any name, this is a thing of pure romance.",
+        "price": "14.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Komodo Dragon Blend\u00ae",
+        "food_desc": "Deep, untamed flavors ripple in this cup\u2014earthy, herbal and complex with a lingering spice. This is the essence of coffees from Indonesia. Our master coffee blenders have brought together the best flavors of the region perfectly, creating an experience that would otherwise never exist. And is as extraordinary and wild as its namesake.",
+        "price": "15.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Sumatra",
+        "food_desc": "Full-bodied with a smooth mouthfeel, lingering flavors of dried herbs and fresh earth, and almost no acidity. Our roasters love transforming these unpredictable beans from dark coral green to tiger-orange to a rich, oily mahogany, revealing bold flavors that many us of us can\u2019t live without. Coffee from Sumatra is the foundation of our most treasured blends, and something we\u2019ve been honored to share with you for four decades.",
+        "price": "15.95",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "Passport Series: Anniversary Blend",
+        "food_desc": "We first offered Starbucks\u00ae Anniversary Blend in 1996 in celebration of our 25th year. Today the celebration continues. We are honored to give you a coffee that brings us back to one of our most beloved coffee-growing regions. Remarkable beans from Sulawesi, Papua New Guinea and Sumatra are combined with special aged Sumatra, creating a magical orchestra of earthy flavor and spice. Full-bodied, robust and undeniably bold, this coffee is a testament to the past and celebration of the future.",
+        "price": "17.25",
+        "section": "Whole Bean"
+      },
+      {
+        "food_name": "VIA\u00ae Sweetened Iced Coffee",
+        "food_desc": "The refreshing coffee that's an instant summer sensation. Just add ice.",
+        "price": "6.85",
+        "section": "VIA\u00ae Instant"
+      },
+      {
+        "food_name": "VIA\u00ae Veranda Blend\u2122",
+        "food_desc": "A mellow blend with a soft and friendly disposition.",
+        "price": "11.45",
+        "section": "VIA\u00ae Instant"
+      },
+      {
+        "food_name": "Starbucks VIA\u00ae Instant Colombia Coffee",
+        "food_desc": "A smooth instant coffee with a signature nutty flavor. Grown on some of the highest coffee farms in the majestic Andes mountain range, our medium-roasted Colombia is complex with herbal notes and a walnutlike finish.",
+        "price": "11.45",
+        "section": "VIA\u00ae Instant"
+      },
+      {
+        "food_name": "Starbucks VIA\u00ae Instant Pike Place\u00ae Roast",
+        "food_desc": "Inspired by the very first store we opened in Seattle\u2019s Pike Place Market, Starbucks\u00ae Pike Place\u00ae Roast is a smooth, medium-roasted coffee with subtle notes of chocolate and toasted nuts.",
+        "price": "11.45",
+        "section": "VIA\u00ae Instant"
+      },
+      {
+        "food_name": "VIA\u00ae Italian Roast",
+        "food_desc": "Intense with a rich, deep flavor and notes of caramelized sugar.",
+        "price": "11.45",
+        "section": "VIA\u00ae Instant"
+      },
+      {
+        "food_name": "VIA\u00ae Decaf Italian Roast",
+        "food_desc": "Intense with a rich, deep flavor and notes of caramelized sugar.",
+        "price": "12.65",
+        "section": "VIA\u00ae Instant"
+      },
+      {
+        "food_name": "VIA\u00ae French Roast",
+        "food_desc": "Smoky and singular, the pure, explosive flavor of our darkest roast.",
+        "price": "11.45",
+        "section": "VIA\u00ae Instant"
+      },
+      {
+        "food_name": "Tropical Leaves Plastic Hot Cup & Lid - 16oz",
+        "food_desc": "Enjoy your hot beverage of choice in this cheerful cup featuring a multi-colored tropical leaf design.\n-Single wall plastic\n-For hot beverages\n-Top shelf dishwasher safe",
+        "price": "2.35",
+        "section": "Drinkware"
+      },
+      {
+        "food_name": "Iridescent Geometric Scales Plastic Cold Cup - 24oz",
+        "food_desc": "Inspired by our Siren, this iridescent plastic cold cup is accented with shiny golden geometric scales.\n-Double wall plastic\n-For cold beverages\n-Hand wash only",
+        "price": "19.55",
+        "section": "Drinkware"
+      },
+      {
+        "food_name": "Black Glitter Gradient Stainless Steel Cold Cup - 24oz",
+        "food_desc": "Anything but basic, this sleek stainless steel cold cup got a shimmery gradient upgrade.",
+        "price": "26.45",
+        "section": "Drinkware"
+      },
+      {
+        "food_name": "Silver Vacuum Stainless Steel Tumbler - 12oz",
+        "food_desc": "This stainless steel tumbler's vacuum insulation keeps your favorite tall beverage hot up to 4 hours, and the flip lid keeps leaks at bay.",
+        "price": "20.65",
+        "section": "Drinkware"
+      }
+    ],
+    "rating": {
+      "rating": "4.7",
+      "popular_food": [
+        {
+          "food_name": "McDonald's\u00ae (Portland-Burnside)",
+          "delivery_cost": "$2.99 Delivery Fee",
+          "delivery_time": "15\u201325 Min",
+          "food_type": "American \u2022 Fast Food \u2022 Burgers"
+        },
+        {
+          "food_name": "Starbucks (100 Southwest Main Street)",
+          "delivery_cost": "",
+          "delivery_time": "",
+          "food_type": ""
+        },
+        {
+          "food_name": "Taco Bell (4616 N Interstate Ave)",
+          "delivery_cost": "$3.99 Delivery Fee",
+          "delivery_time": "25\u201335 Min",
+          "food_type": "Burritos \u2022 Fast Food \u2022 Mexican"
+        },
+        {
+          "food_name": "Panda Express (1462 Ne 122nd Ave.)",
+          "delivery_cost": "$5.99 Delivery Fee",
+          "delivery_time": "30\u201340 Min",
+          "food_type": "Chinese \u2022 Family Meals"
+        },
+        {
+          "food_name": "Jack in the Box (921 S E Powell Blvd)",
+          "delivery_cost": "",
+          "delivery_time": "",
+          "food_type": ""
+        },
+        {
+          "food_name": "Wendy's (9445 Sw Barbur Blvd)",
+          "delivery_cost": "$2.99 Delivery Fee",
+          "delivery_time": "25\u201335 Min",
+          "food_type": "American \u2022 Burgers \u2022 Fast Food"
+        }
+      ]
+    }
+  }
+]

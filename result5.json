@@ -1,0 +1,97 @@
+[
+  {
+    "popular_food": [
+      {
+        "food_name": "McDonalds\u00ae (Portland-Burnside)",
+        "delivery_cost": "$6.99 Delivery Fee",
+        "delivery_time": "20\u201330 Min",
+        "food_type": "American \u2022 Fast Food \u2022 Burgers"
+      },
+      {
+        "food_name": "Panda Express (1462 Ne 122nd Ave.)",
+        "delivery_cost": "$5.99 Delivery Fee",
+        "delivery_time": "30\u201340 Min",
+        "food_type": "Chinese \u2022 Family Meals"
+      },
+      {
+        "food_name": "Taco Bell (2079 W Burnside Street)",
+        "delivery_cost": "$6.49 Delivery Fee",
+        "delivery_time": "20\u201330 Min",
+        "food_type": "Burritos \u2022 Fast Food \u2022 Mexican"
+      },
+      {
+        "food_name": "Chipotle Mexican Grill (1948 Sw Broadway)",
+        "delivery_cost": "$7.99 Delivery Fee",
+        "delivery_time": "15\u201325 Min",
+        "food_type": "Healthy \u2022 Mexican"
+      },
+      {
+        "food_name": "Starbucks (100 Southwest Main Street)",
+        "delivery_cost": "",
+        "delivery_time": "",
+        "food_type": ""
+      },
+      {
+        "food_name": "Five Guys OR-1197 8963 SE 82nd Ave",
+        "delivery_cost": "$4.99 Delivery Fee",
+        "delivery_time": "45\u201355 Min",
+        "food_type": "American \u2022 Burgers"
+      }
+    ],
+    "restaurant_name": "Casa Barilla (POR01-2)",
+    "food_type": "Italian,Pasta,Salads,Vegetarian",
+    "delivery_time": "11:00 AM - 02:00 AM",
+    "rating": "View delivery time and booking fee.",
+    "address": "321 Sw 2nd Ave, Portland, OR 97204",
+    "menu": [
+      {
+        "food_name": "Orecchiette al Pomodoro",
+        "food_desc": "Our light and bright red sauce made with California-grown San Marzano style tomatoes, a touch of garlic, EVOO and fresh basil * Plant Based *",
+        "price": "11.95",
+        "section": "Pasta"
+      },
+      {
+        "food_name": "Spaghetti al Pesto",
+        "food_desc": "The enticing combination of fresh basil, EVOO, garlic, 16-month Italian Parmigiano Reggiano and toasted walnut",
+        "price": "11.95",
+        "section": "Pasta"
+      },
+      {
+        "food_name": "Lasagna Classica",
+        "food_desc": "Soft egg pasta layered with Bolognese and bachamel, baked with crispy Grana Padano smothered in tomato sauce  * Protein+ *",
+        "price": "13.95",
+        "section": "Pasta"
+      },
+      {
+        "food_name": "Casarecce Red Montanara",
+        "food_desc": "Rich and earthy 16-month Italian Parmigiano Reggiano and tomatoes sauce with free range chicken, mushrooms and the sweet kick of sundried tomatoes",
+        "price": "13.95",
+        "section": "Pasta"
+      },
+      {
+        "food_name": "Tagliatelle Beyond \u00ae  Meatballs",
+        "food_desc": "Housemade, plant-based meatballs, lights as air, crafted with Beyond Meat\u00ae and slowly braised in our tomato sauce * Plant Based * Vegetarian",
+        "price": "13.95",
+        "section": "Pasta"
+      },
+      {
+        "food_name": "Burrata Salad",
+        "food_desc": "Creamy stracciatella filled mozzarella served with tomatoes and walnut pesto on a bed of arugula * Gluten Free *",
+        "price": "9.95",
+        "section": "Salads"
+      },
+      {
+        "food_name": "Coca-Cola Can (12 oz)",
+        "food_desc": "",
+        "price": "2.49",
+        "section": "Drinks"
+      },
+      {
+        "food_name": "Diet Coke Can (12 oz)",
+        "food_desc": "",
+        "price": "2.49",
+        "section": "Drinks"
+      }
+    ]
+  }
+]
